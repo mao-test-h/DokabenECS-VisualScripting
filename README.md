@@ -2,6 +2,8 @@
 
 DOTS VisualScriptingを用いてドカベンロゴを回すデモ
 
+![doka](https://user-images.githubusercontent.com/17098415/71549112-65d1cd80-29fb-11ea-9585-fe99e4dd4c09.gif)
+
 
 
 ## Supported Unity versions
